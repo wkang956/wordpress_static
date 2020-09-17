@@ -1,1 +1,0 @@
-wordpress全站生成静态html文件,全站静态化
